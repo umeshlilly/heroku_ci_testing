@@ -25,6 +25,8 @@
     "good-console": "^5.2.0",
     "hapi": "^11.1.2",
     "hapi-swagger": "^7.5.0",
+	"heroku-cli-util": "^6.0.15",
+    "heroku-run": "^3.4.3",
     "inert": "^3.2.1",
     "istanbul": "^0.4.5",
     "jasmine": "^2.5.3",
